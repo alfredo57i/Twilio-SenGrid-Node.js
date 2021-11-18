@@ -1,0 +1,6 @@
+[default]
+TWILIO_ACCOUNT_SID = 'unmontondeletrasynumeros'
+TWILIO_AUTH_TOKEN = 'otromontondeletrasynumeros'
+TWILIO_PHONE ='+1XXXXXXXXXXXX'
+SENDGRID_API_KEY = 'unmontondeletrassincomillas'
+EMAIL_SENDGRID = 'email@verificado.com'

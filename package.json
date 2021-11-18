@@ -1,0 +1,25 @@
+{
+  "name": "mascotafelizservicios",
+  "version": "1.0.0",
+  "description": "Servicios Mascota Feliz App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfredo57i/MascotaFelizServicios.git"
+  },
+  "author": "White Dev 2.0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alfredo57i/MascotaFelizServicios/issues"
+  },
+  "homepage": "https://github.com/alfredo57i/MascotaFelizServicios#readme",
+  "dependencies": {
+    "@sendgrid/mail": "^7.6.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "twilio": "^3.71.1"
+  }
+}
